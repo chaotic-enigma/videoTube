@@ -1,6 +1,6 @@
 # Local YouTube site
 
-This is a `Dash` app an unofficial one, runs with `YouTube API (easily obtained from Google Developers Console)`. When typed the requested `query` in the `Input Box`, gives top `15` results that match the `requested Keyword`.
+This is a `Dash` app an unofficial one, runs with `YouTube API (easily obtained from Google Developers Console)`. When typed the requested `query` in the `Input Box`, gives the top `15` results that match the `requested Keyword`.
 
 __Example Stream__
 
