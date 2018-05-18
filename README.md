@@ -8,4 +8,4 @@ __Example Stream__
 
 When clicked on the button, the video opens in the `New Tab`.
 
-`PS: Original YouTube site far more better. This is just made out of FUN :-)`
+`PS: Original YouTube site is far more better. This is just made out of FUN :-)`
